@@ -2,7 +2,7 @@
 
 **ChocoInst** — это графическая программа для установки пакетов через **Chocolatey** с удобным интерфейсом и переключением тем.
 
-![Версия](https://img.shields.io/badge/версия-2.0-brightgreen)
+![Версия](https://img.shields.io/badge/версия-1.0-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Chocolatey](https://img.shields.io/badge/Chocolatey-совместим-ff69b4)
 
