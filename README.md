@@ -5,7 +5,7 @@
 ![Версия](https://img.shields.io/badge/версия-1.0-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Chocolatey](https://img.shields.io/badge/Chocolatey-нужен_для_установки_программ-ff69b4)
-
+![Быстрая установка ChocoInst](https://img.shields.io/badge/pip_install_chocoinst%2B-blue)
 ---
 
 ## ✨ **Возможности**
